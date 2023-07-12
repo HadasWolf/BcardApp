@@ -1,0 +1,2 @@
+# BcardApp
+react typescript project
